@@ -42,6 +42,7 @@ Project/
 └── results/                  (all outputs for each run)
     └── run_username_timestamp/
         ├── figures/
+        ├── sourcefile/ (local copy of the project folder to ensure it can be rerun)
         ├── model_best.pt
         ├── model_epoch.pt
         ├── config.yaml
