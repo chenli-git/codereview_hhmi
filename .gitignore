@@ -1,0 +1,20 @@
+# Model weights
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Data
+*.csv
+
+# Results
+results.json
+*.png
+
+# Virtual environments
+venv/
+.venv/
